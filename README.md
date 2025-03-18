@@ -1,5 +1,8 @@
 # VirtualMouseUsingHandGestures
-A Python-based virtual mouse that uses hand gestures for control. Built with: 
+A Python-based virtual mouse that uses hand gestures for control.
+
+Built with: 
+
 📌 MediaPipe – Hand tracking 
 
 📌 OpenCV – Image processing
