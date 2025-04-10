@@ -15,7 +15,7 @@ index_y = 0
 
 # Smoothing variables
 prev_x, prev_y = 0, 0
-smoothing = 5  # Higher number = more smoothing
+smoothing = 6  # Higher number = more smoothing
 
 # Click variables
 last_click_time = 0
